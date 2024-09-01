@@ -1,0 +1,11 @@
+streamlit
+SpeechRecognition
+pymupdf
+python-docx
+ibm-watson
+requests
+fpdf
+reportlab
+setuptools
+pyaudio==0.2.11
+streamlit-audiorecorder
